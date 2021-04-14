@@ -400,18 +400,27 @@ select{
 
 
 
-
-
 .ui-accordion-header{
     margin-bottom: 35px;
     cursor: pointer;
+    background: beige;
+    padding: 15px;
+
+
 } 
   
 #accordion p{
     background: beige;
     padding: 10px;
+
 }
   
+
+
+.fa-chevron-down{
+    float: right;
+}
+
 
 
 
